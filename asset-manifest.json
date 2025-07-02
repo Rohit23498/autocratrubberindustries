@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/autocratrubberindustries/static/css/main.a170d816.css",
-    "main.js": "/autocratrubberindustries/static/js/main.b717be20.js",
+    "main.js": "/autocratrubberindustries/static/js/main.af512141.js",
     "static/media/logo.png": "/autocratrubberindustries/static/media/logo.264e54c1e5a91ea66a67.png",
     "index.html": "/autocratrubberindustries/index.html",
     "main.a170d816.css.map": "/autocratrubberindustries/static/css/main.a170d816.css.map",
-    "main.b717be20.js.map": "/autocratrubberindustries/static/js/main.b717be20.js.map"
+    "main.af512141.js.map": "/autocratrubberindustries/static/js/main.af512141.js.map"
   },
   "entrypoints": [
     "static/css/main.a170d816.css",
-    "static/js/main.b717be20.js"
+    "static/js/main.af512141.js"
   ]
 }
